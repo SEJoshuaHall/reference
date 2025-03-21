@@ -1,3 +1,4 @@
+# Network Vocabulary Guide
 By Joshua Hall, Edited by Claude.ai
 ## Fundamental Concepts
 

@@ -1,3 +1,4 @@
+# Git and Github Reference Guide
 By Joshua Hall, Edited by Claude.ai
 
 Additional Recommended Resources:

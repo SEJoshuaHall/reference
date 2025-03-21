@@ -1,3 +1,4 @@
+# Network Supplemental Guide
 By Joshua Hall, Edited by Claude.ai
 
 This guide compiles essential network-related information from the provided materials, focusing on practical examples, tools, and concepts not fully covered in the main reference documents.

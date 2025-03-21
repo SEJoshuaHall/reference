@@ -1,3 +1,4 @@
+# SQL Vocabulary Guide
 By Joshua Hall, Edited by Claude.ai
 ## Keys and Relationships
 

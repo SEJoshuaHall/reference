@@ -1,3 +1,4 @@
+# SQL Reference Guide
 By Joshua Hall, Edited by Claude.ai
 ### Set Operations
 

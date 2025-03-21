@@ -1,19 +1,20 @@
+# Network Reference Guide
 By Joshua Hall, Edited by Claude.ai
 ## Table of Contents
 
-1. [Network Fundamentals](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#network-fundamentals)
-2. [Network Models](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#network-models)
-3. [Physical Layer](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#physical-layer)
-4. [Data Link Layer](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#data-link-layer)
-5. [Network Layer](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#network-layer)
-6. [Transport Layer](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#transport-layer)
-7. [Application Layer](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#application-layer)
-8. [HTTP and the Web](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#http-and-the-web)
-9. [Network Security](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#network-security)
-10. [Network Diagnostics](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#network-diagnostics)
-11. [Network Performance](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#network-performance)
-12. [Command Line Tools](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#command-line-tools)
-13. [Network Design Best Practices](https://claude.ai/chat/a818297f-40a9-42b2-a587-b3f2c7198399#network-design-best-practices)
+1. Network Fundamentals
+2. Network Models
+3. Physical Layer
+4. Data Link Layer
+5. Network Layer
+6. Transport Layer
+7. Application Layer
+8. HTTP and the Web
+9. Network Security
+10. Network Diagnostics
+11. Network Performance
+12. Command Line Tools
+13. Network Design Best Practices
 
 ## Network Fundamentals
 

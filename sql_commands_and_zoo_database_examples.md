@@ -1,3 +1,4 @@
+# SQL Commands and Zoo Database Examples
 By Joshua Hall, Edited by Claude.ai
 
 ### Entity Relationship Diagrams and Crow's Foot Notation
